@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> Tugas html </title>
 </head>
 <body>
 <tr>
